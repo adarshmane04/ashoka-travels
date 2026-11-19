@@ -22,7 +22,7 @@ export default function App() {
       <style>{`
         *{box-sizing:border-box} body{margin:0;font-family:system-ui,sans-serif;background:#f3f7f6;color:#10282b}
         header{background:#1d4ed8;color:#fff;padding:48px 20px;text-align:center}
-        header h1{margin:0 0 8px;font-size:2.2rem} header p{margin:0;opacity:.9}
+        header h1{margin:0 0 8px;font-size:2.2rem;color:#e11d48} header p{margin:0;opacity:.9}
         main{max-width:1000px;margin:auto;padding:24px 16px}
         .bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
         .bar input{flex:1 1 200px;padding:10px;border:1px solid #c5d3d1;border-radius:8px;font:inherit}
